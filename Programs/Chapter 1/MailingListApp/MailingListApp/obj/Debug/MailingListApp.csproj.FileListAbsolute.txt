@@ -1,0 +1,9 @@
+F:\GitHub\CSharp-Database\Programs\Chapter 1\MailingListApp\MailingListApp\bin\Debug\MailingListApp.exe.config
+F:\GitHub\CSharp-Database\Programs\Chapter 1\MailingListApp\MailingListApp\bin\Debug\MailingListApp.exe
+F:\GitHub\CSharp-Database\Programs\Chapter 1\MailingListApp\MailingListApp\bin\Debug\MailingListApp.pdb
+F:\GitHub\CSharp-Database\Programs\Chapter 1\MailingListApp\MailingListApp\obj\Debug\MailingListApp.csprojAssemblyReference.cache
+F:\GitHub\CSharp-Database\Programs\Chapter 1\MailingListApp\MailingListApp\obj\Debug\MailingListApp.frmMailingList.resources
+F:\GitHub\CSharp-Database\Programs\Chapter 1\MailingListApp\MailingListApp\obj\Debug\MailingListApp.Properties.Resources.resources
+F:\GitHub\CSharp-Database\Programs\Chapter 1\MailingListApp\MailingListApp\obj\Debug\MailingListApp.csproj.GenerateResource.cache
+F:\GitHub\CSharp-Database\Programs\Chapter 1\MailingListApp\MailingListApp\obj\Debug\MailingListApp.exe
+F:\GitHub\CSharp-Database\Programs\Chapter 1\MailingListApp\MailingListApp\obj\Debug\MailingListApp.pdb
