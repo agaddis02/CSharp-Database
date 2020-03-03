@@ -1,0 +1,10 @@
+E:\GitHub\CSharp-Database\Programs\Chapter 3\Lab_Assignment_3\Lab_Assignment_3-2A\Lab3_2A\Lab3_2A\obj\Debug\Lab3_2A.csprojAssemblyReference.cache
+E:\GitHub\CSharp-Database\Programs\Chapter 3\Lab_Assignment_3\Lab_Assignment_3-2A\Lab3_2A\Lab3_2A\obj\Debug\Lab3_2A.Form1.resources
+E:\GitHub\CSharp-Database\Programs\Chapter 3\Lab_Assignment_3\Lab_Assignment_3-2A\Lab3_2A\Lab3_2A\obj\Debug\Lab3_2A.Properties.Resources.resources
+E:\GitHub\CSharp-Database\Programs\Chapter 3\Lab_Assignment_3\Lab_Assignment_3-2A\Lab3_2A\Lab3_2A\obj\Debug\Lab3_2A.csproj.GenerateResource.cache
+E:\GitHub\CSharp-Database\Programs\Chapter 3\Lab_Assignment_3\Lab_Assignment_3-2A\Lab3_2A\Lab3_2A\obj\Debug\Lab3_2A.csproj.CoreCompileInputs.cache
+E:\GitHub\CSharp-Database\Programs\Chapter 3\Lab_Assignment_3\Lab_Assignment_3-2A\Lab3_2A\Lab3_2A\bin\Debug\Lab3_2A.exe.config
+E:\GitHub\CSharp-Database\Programs\Chapter 3\Lab_Assignment_3\Lab_Assignment_3-2A\Lab3_2A\Lab3_2A\bin\Debug\Lab3_2A.exe
+E:\GitHub\CSharp-Database\Programs\Chapter 3\Lab_Assignment_3\Lab_Assignment_3-2A\Lab3_2A\Lab3_2A\bin\Debug\Lab3_2A.pdb
+E:\GitHub\CSharp-Database\Programs\Chapter 3\Lab_Assignment_3\Lab_Assignment_3-2A\Lab3_2A\Lab3_2A\obj\Debug\Lab3_2A.exe
+E:\GitHub\CSharp-Database\Programs\Chapter 3\Lab_Assignment_3\Lab_Assignment_3-2A\Lab3_2A\Lab3_2A\obj\Debug\Lab3_2A.pdb

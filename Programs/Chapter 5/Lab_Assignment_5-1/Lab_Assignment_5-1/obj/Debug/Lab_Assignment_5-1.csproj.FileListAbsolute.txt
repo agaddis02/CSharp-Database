@@ -1,0 +1,10 @@
+E:\GitHub\CSharp-Database\Programs\Chapter 5\Lab_Assignment_5-1\Lab_Assignment_5-1\bin\Debug\Lab_Assignment_5-1.exe.config
+E:\GitHub\CSharp-Database\Programs\Chapter 5\Lab_Assignment_5-1\Lab_Assignment_5-1\bin\Debug\Lab_Assignment_5-1.exe
+E:\GitHub\CSharp-Database\Programs\Chapter 5\Lab_Assignment_5-1\Lab_Assignment_5-1\bin\Debug\Lab_Assignment_5-1.pdb
+E:\GitHub\CSharp-Database\Programs\Chapter 5\Lab_Assignment_5-1\Lab_Assignment_5-1\obj\Debug\Lab_Assignment_5-1.csprojAssemblyReference.cache
+E:\GitHub\CSharp-Database\Programs\Chapter 5\Lab_Assignment_5-1\Lab_Assignment_5-1\obj\Debug\Lab_Assignment_5_1.frmAuthors.resources
+E:\GitHub\CSharp-Database\Programs\Chapter 5\Lab_Assignment_5-1\Lab_Assignment_5-1\obj\Debug\Lab_Assignment_5_1.Properties.Resources.resources
+E:\GitHub\CSharp-Database\Programs\Chapter 5\Lab_Assignment_5-1\Lab_Assignment_5-1\obj\Debug\Lab_Assignment_5-1.csproj.GenerateResource.cache
+E:\GitHub\CSharp-Database\Programs\Chapter 5\Lab_Assignment_5-1\Lab_Assignment_5-1\obj\Debug\Lab_Assignment_5-1.csproj.CoreCompileInputs.cache
+E:\GitHub\CSharp-Database\Programs\Chapter 5\Lab_Assignment_5-1\Lab_Assignment_5-1\obj\Debug\Lab_Assignment_5-1.exe
+E:\GitHub\CSharp-Database\Programs\Chapter 5\Lab_Assignment_5-1\Lab_Assignment_5-1\obj\Debug\Lab_Assignment_5-1.pdb
